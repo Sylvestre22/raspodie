@@ -1,0 +1,27 @@
+{
+    "img": "assets/images/profil.png",
+    "name": "Capitol LyKnowlege",
+    "year": 2022,
+    "funds": 2211993.23,
+    "league": {
+        "id": "jJi6gX7hc79Sg7Cg9hs",
+        "name": "Poussin des Titants",
+        "rang": 11
+    },
+    "membres": [{
+        "avatar": "https://s3.amazonaws.com/assets.materialup.com/users/pictures/001/185/664/preview/IMG_0003.JPG?1610208020",
+        "name": "Mike Sylvestre",
+        "email": "aaaa@aaaa.aaaa",
+        "role": 1
+    }, {
+        "avatar": "https://ionicframework.com/docs/demos/api/avatar/avatar.svg",
+        "name": "Christopher Sylvestre",
+        "email": "aaaa@aaaa.aaaa",
+        "role": 2
+    }, {
+        "avatar": "https://www.w3schools.com/w3images/avatar6.png",
+        "name": "Elodie Sylvestre",
+        "email": "aaaa@aaaa.aaaa",
+        "role": 2
+    }]
+}

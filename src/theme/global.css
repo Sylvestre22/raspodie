@@ -1,0 +1,133 @@
+ion-content {
+    --background: #fafafa;
+}
+
+ion-content ion-item {
+    --background: #fafafa;
+}
+
+.font-weights {
+    font-weight: bold;
+}
+
+.iconSize {
+    zoom: 1.3;
+}
+
+.large {
+    font-size: 16px;
+}
+
+.medium {
+    font-size: 14px;
+}
+
+.small {
+    font-size: 12px;
+}
+
+.ellipsis {
+    text-overflow: ellipsis;
+    white-space: nowrap;
+    overflow: hidden;
+}
+
+.top-icon-header ion-col {
+    padding-bottom: 0;
+}
+
+.top-icon-header ion-col ion-icon {
+    font-size: 12px;
+    margin-right: 3px;
+    margin-left: 3px;
+}
+
+.top-icon-header ion-col h5 {
+    text-transform: capitalize;
+    font-size: 12px;
+    margin-top: 0;
+    margin-bottom: 0;
+    margin-left: 5px;
+    color: black;
+}
+
+.top-icon-header {
+    color: var(--ion-color-primary);
+}
+
+.top-icon-header #second {
+    height: 10px;
+    font-size: 10px;
+    color: var(--ion-color-secondary);
+    text-transform: uppercase;
+}
+
+.top-icon-header #second ion-icon {
+    font-size: 10px;
+    margin: 0;
+}
+
+[dir="rtl"] ion-header ion-toolbar ion-buttons ion-button ion-badge {
+    right: auto;
+    left: 1px;
+}
+
+[dir="rtl"] .top-icon-header #second {
+    margin-right: auto;
+    margin-left: 0;
+}
+
+[dir="rtl"] .banner-slider.swiper-container,
+[dir="rtl"] .product-slides.swiper-container {
+    padding-right: 0px;
+}
+
+[dir="rtl"] .swiper-slide {
+    text-align: right !important;
+}
+
+[dir="rtl"] .product-component ion-item #list-heart-icon {
+    right: auto;
+    left: 10px;
+}
+
+[dir="rtl"] .product-component ion-item .sale {
+    right: auto;
+    left: 0;
+}
+
+[dir="rtl"] .product-component ion-item .featured {
+    right: auto;
+    left: 0;
+}
+
+[dir="rtl"] .product-component ion-item ion-label {
+    margin-right: 10px;
+}
+
+[dir="rtl"] .product-component ion-item ion-thumbnail .badge-img {
+    right: 9px;
+    left: auto;
+    top: 9px;
+    transform: rotate(90deg) scaleX(1);
+}
+
+app-product {
+    width: 100%;
+}
+
+.animate-item {
+    animation: fadeIn;
+}
+
+.menu-btn {
+    font-size: 18px;
+}
+
+.round-image {
+    border-radius: 25px;
+    -webkit-border-radius: 25px;
+    -moz-border-radius: 25px;
+    -ms-border-radius: 25px;
+    -o-border-radius: 25px;
+}

@@ -1,0 +1,36 @@
+[{
+    "rating": -1,
+    "ratingLastWeek": -1,
+    "incomeOfWeek": 21340.2,
+    "income": 2093920290.2,
+    "name": "Élie Yaffa - Booba",
+    "image": "assets/images/artists/img1.png"
+}, {
+    "rating": 22,
+    "ratingLastWeek": 20,
+    "incomeOfWeek": 2039322.2,
+    "income": 93939320.2,
+    "name": "Aurélien Cotentin - Orelsan",
+    "image": "assets/images/artists/img2.png"
+}, {
+    "rating": 8,
+    "ratingLastWeek": -1,
+    "incomeOfWeek": 9292.2,
+    "income": 83920383.2,
+    "name": "Ibrahima Diakité - Gazo",
+    "image": "assets/images/artists/img3.png"
+}, {
+    "rating": 12,
+    "ratingLastWeek": 1,
+    "incomeOfWeek": 29293.2,
+    "income": 9293920.2,
+    "name": "William Kalubi Mwamba - Damso",
+    "image": "assets/images/artists/img5.png"
+}, {
+    "rating": 22,
+    "ratingLastWeek": 5,
+    "incomeOfWeek": 9289.2,
+    "income": 29292983873.2,
+    "name": "Georges Stanislas Malif Dinga-Pinto - Niska",
+    "image": "assets/images/artists/img7.png"
+}]
